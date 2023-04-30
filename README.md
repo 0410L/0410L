@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oriol</h1>
-<h3 align="center">Front-end developer & Graphic designer from Barcelona</h3>
+<h2 align="center">Front-end developer & Graphic designer from Barcelona</h3>
 
 <h5 align="center">A creative designer based in Barcelona with a background in graphic design, motion graphics, video and front-end developer.</h5>
 
