@@ -14,6 +14,33 @@ Interested in UX/UI, digital media, innovative thinking and project management.
 ## Languages and Tools
 <div>
   <p align="center">
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
+        alt="angular"
+        width="33"
+      />
+    </a>
+        &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        alt="typescript"
+        width="30"
+      />
+    </a>
+     &nbsp;
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+        alt="javascript"
+        width="30"
+      />
+    </a>
+    &nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -27,34 +54,6 @@ Interested in UX/UI, digital media, innovative thinking and project management.
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
         width="37"
-      />
-    </a>
-    &nbsp;
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
-        alt="javascript"
-        width="30"
-      />
-    </a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-        alt="typescript"
-        width="30"
-      />
-    </a>
-    &nbsp;
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
-        alt="angular"
-        width="33"
       />
     </a>
     &nbsp;
