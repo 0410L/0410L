@@ -1,15 +1,17 @@
 <h1 align="center">Hi, I'm Oriol</h1>
 <h3 align="center">Front-end developer & Graphic designer from Barcelona</h3>
 
-A creative designer based in Barcelona with a background in graphic design, motion graphics, video and front-end developer.
+<h5 align="center">A creative designer based in Barcelona with a background in graphic design, motion graphics, video and front-end developer.</h5>
 
-Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.
+<h5 align="center">Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.</h5>
 
-Interested in UX/UI, digital media, innovative thinking and project management.
+<h5 align="center">Interested in UX/UI, digital media, innovative thinking and project management.</h5>
 
-- 🧠 I love to be constantly learning
-- ✉️ Contact me via <i>oriol.busquet@gmail.com</i> or Linkedin <a href="https://www.linkedin.com/in/oriol-busquet-015355131/">Oriol Busquet</a>
-- 📥 My design Portfolio <a href="https://oriolbusquet.com/">oriolbusquet.com</a>
+##
+
+<h5 align="center"> 🧠 I love to be constantly learning 🧠</h5>
+<h5 align="center"> ✉️ Contact me via <i>oriol.busquet@gmail.com</i> or Linkedin <a href="https://www.linkedin.com/in/oriol-busquet-015355131/">Oriol Busquet</a>✉️</h5>
+<h5 align="center"> ⚡ My design Portfolio <a href="https://oriolbusquet.com/">oriolbusquet.com</a>⚡</h5>
 
 ## Languages and Tools
 <div>
