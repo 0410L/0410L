@@ -100,5 +100,8 @@
   <h5 align="center"><a href="https://www.youtube.com/watch?v=ISx1Tq9DVww">POLARD APP (VIDEO PROMO)</a></h5>
   <h5 align="center"><a href="https://fortunecookies-app.vercel.app/">FORTUNE COOKIES APP</a></h5>
   <h5 align="center"><a href="https://fcb-khaki.vercel.app/">FCB PLAYERS APP</a></h5>
-  
+  <h5 align="center"><a href="https://m-project-j4ez.vercel.app/">PHOTO GALLERY APP (MASONRY LAYOUT)</a></h5>
+  <h5 align="center"><a href="https://encryption-form.vercel.app/">ENCRYPT & DECRYPT FORM</a></h5>
+  <h5 align="center"><a href="https://sprint-6-angular-1-rokf.vercel.app/">HERO HISTORY APP</a></h5>
+  <h5 align="center"><a href="https://sprint-5-typescript.vercel.app/">JOKES APP</a></h5>
 </div>
