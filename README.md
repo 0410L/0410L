@@ -82,7 +82,23 @@
         width="30"
       />
     </a>
-    &nbsp;
+        &nbsp;
+    <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
+        alt="photoshop"
+        width="30"
+      />
+    </a>
+        &nbsp;
+    <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
+        alt="ilustrator"
+        width="30"
+      />
+    </a>
+        &nbsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -90,8 +106,18 @@
         width="30"
       />
     </a>
+        &nbsp;
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+        alt="bootstrap"
+        width="30"
+      />
+    </a>
   </p>
 </div>
+
+
 
 ## Projects
 <div>
