@@ -121,13 +121,13 @@
 
 ## Projects
 <div>
-  <h5 align="center"><a href="https://template-0410l.vercel.app/">MARVEL APP</a></h5>
-  <h5 align="center"><a href="https://cracks-f23.vercel.app/">FIFA PLAYERS APP</a></h5>
-  <h5 align="center"><a href="https://www.youtube.com/watch?v=ISx1Tq9DVww">POLARD APP (VIDEO PROMO)</a></h5>
-  <h5 align="center"><a href="https://fortunecookies-app.vercel.app/">FORTUNE COOKIES APP</a></h5>
-  <h5 align="center"><a href="https://fcb-khaki.vercel.app/">FCB PLAYERS APP</a></h5>
-  <h5 align="center"><a href="https://m-project-j4ez.vercel.app/">PHOTO GALLERY APP (MASONRY LAYOUT)</a></h5>
-  <h5 align="center"><a href="https://encryption-form.vercel.app/">ENCRYPT & DECRYPT FORM</a></h5>
-  <h5 align="center"><a href="https://sprint-6-angular-1-rokf.vercel.app/">HERO HISTORY APP</a></h5>
-  <h5 align="center"><a href="https://sprint-5-typescript.vercel.app/">JOKES APP</a></h5>
+  <h5 align="center"><a href="https://template-0410l.vercel.app/" target="_blank">MARVEL APP</a></h5>
+  <h5 align="center"><a href="https://cracks-f23.vercel.app/" target="_blank">FIFA PLAYERS APP</a></h5>
+  <h5 align="center"><a href="https://www.youtube.com/watch?v=ISx1Tq9DVww" target="_blank">POLARD APP (VIDEO PROMO)</a></h5>
+  <h5 align="center"><a href="https://fortunecookies-app.vercel.app/" target="_blank">FORTUNE COOKIES APP</a></h5>
+  <h5 align="center"><a href="https://fcb-khaki.vercel.app/" target="_blank">FCB PLAYERS APP</a></h5>
+  <h5 align="center"><a href="https://m-project-j4ez.vercel.app/" target="_blank">PHOTO GALLERY APP (MASONRY LAYOUT)</a></h5>
+  <h5 align="center"><a href="https://encryption-form.vercel.app/" target="_blank">ENCRYPT & DECRYPT FORM</a></h5>
+  <h5 align="center"><a href="https://sprint-6-angular-1-rokf.vercel.app/" target="_blank">HERO HISTORY APP</a></h5>
+  <h5 align="center"><a href="https://sprint-5-typescript.vercel.app/" target="_blank">JOKES APP</a></h5>
 </div>
