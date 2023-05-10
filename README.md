@@ -117,8 +117,6 @@
   </p>
 </div>
 
-
-
 ## Projects
 <div>
   <h5 align="center"><a href="https://template-0410l.vercel.app/" target="_blank">MARVEL APP</a></h5>
@@ -130,4 +128,16 @@
   <h5 align="center"><a href="https://encryption-form.vercel.app/" target="_blank">ENCRYPT & DECRYPT FORM</a></h5>
   <h5 align="center"><a href="https://sprint-6-angular-1-rokf.vercel.app/" target="_blank">HERO HISTORY APP</a></h5>
   <h5 align="center"><a href="https://sprint-5-typescript.vercel.app/" target="_blank">JOKES APP</a></h5>
+</div>
+
+##
+
+
+<div>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=0410L&label=Profile%20views&color=00aaff&style=flat" alt="Oriol Busquet" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0410L&show_icons=true&theme=transparent" alt="GitHub Stats">
+</p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0410L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
