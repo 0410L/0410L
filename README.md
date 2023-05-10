@@ -139,5 +139,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0410L&show_icons=true&theme=transparent" alt="GitHub Stats">
 </p>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0410L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
