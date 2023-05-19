@@ -121,6 +121,7 @@
 <div>
   <h5 align="center"><a href="https://template-0410l.vercel.app/" target="_blank">MARVEL APP</a></h5>
   <h5 align="center"><a href="https://cracks-f23.vercel.app/" target="_blank">FIFA PLAYERS APP</a></h5>
+  <h5 align="center"><a href="https://console-pokedex.vercel.app/" target="_blank">POKEDEX APP</a></h5>
   <h5 align="center"><a href="https://www.youtube.com/watch?v=ISx1Tq9DVww" target="_blank">POLARD APP (VIDEO PROMO)</a></h5>
   <h5 align="center"><a href="https://fortunecookies-app.vercel.app/" target="_blank">FORTUNE COOKIES APP</a></h5>
   <h5 align="center"><a href="https://fcb-khaki.vercel.app/" target="_blank">FCB PLAYERS APP</a></h5>
