@@ -143,11 +143,9 @@
   </tr>
   <tr>
     <td align="center"><a href="https://sprint-5-typescript.vercel.app/">JOKES APP</a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://fomrs-angular.vercel.app/">FORMS ANGULAR</a></td>
   </tr>
 </table>
-
-
 
 
 ##
