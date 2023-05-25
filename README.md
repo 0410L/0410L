@@ -59,11 +59,19 @@
       />
     </a>
     &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"
-        alt="nodejs"
-        width="30"
+        src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
+        alt="php"
+        width="55"
+      />
+    </a>
+     &nbsp;
+    <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/codeigniter-icon.svg"
+        alt="codeigniter"
+        width="26"
       />
     </a>
     &nbsp;
@@ -103,7 +111,7 @@
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
         alt="figma"
-        width="30"
+        width="26"
       />
     </a>
         &nbsp;
@@ -111,7 +119,7 @@
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
         alt="bootstrap"
-        width="30"
+        width="36"
       />
     </a>
   </p>
