@@ -92,9 +92,9 @@
     &nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg"
+        src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png"
         alt="vercel"
-        width="120"
+        width="36"
       />
     </a>
     &nbsp;
