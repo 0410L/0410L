@@ -74,12 +74,27 @@
         width="26"
       />
     </a>
+       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
+        alt="mysql"
+        width="60"
+      />
+    </a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
         width="30"
+      />
+    </a>
+    &nbsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg"
+        alt="vercel"
+        width="120"
       />
     </a>
     &nbsp;
