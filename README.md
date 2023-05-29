@@ -11,7 +11,7 @@
 
 <h5 align="center"> 🧠 I love to be constantly learning 🧠</h5>
 <h5 align="center"> ✉️ Contact me via <i>oriol.busquet@gmail.com</i> or Linkedin <a href="https://www.linkedin.com/in/oriol-busquet-015355131/">Oriol Busquet</a>✉️</h5>
-<h5 align="center"> 💻📱 My <a href="https://portfoliodev-oriol.vercel.app/">Developer Portfolio</a>💻📱</h5>
+<h5 align="center"> 💻📱 My <a href="https://portfoliodev-oriol.vercel.app/">Developer Portfolio</a>📱💻</h5>
 <h5 align="center"> ⚡ My design Portfolio <a href="https://oriolbusquet.com/">oriolbusquet.com</a>⚡</h5>
 
 ## Languages and Tools
