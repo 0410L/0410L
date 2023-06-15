@@ -169,6 +169,10 @@
     <td align="center"><a href="https://sprint-5-typescript.vercel.app/">JOKES APP</a></td>
     <td align="center"><a href="https://fomrs-angular.vercel.app/">FORMS ANGULAR</a></td>
   </tr>
+    <tr>
+    <td align="center"><a href="https://marvel-chrono.vercel.app/">MARVEL MCU CHRONO ORDER</a></td>
+    <td align="center"><a href="https://crazybutton.vercel.app/">CRAZY BUTTON</a></td>
+  </tr>
 </table>
 
 
