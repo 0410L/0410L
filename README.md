@@ -70,7 +70,7 @@
      &nbsp;
     <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/codeigniter-icon.svg"
+        src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
         alt="codeigniter"
         width="26"
       />
