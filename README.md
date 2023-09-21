@@ -123,14 +123,6 @@
       />
     </a>
         &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="26"
-      />
-    </a>
-        &nbsp;
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
