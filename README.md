@@ -162,7 +162,7 @@
     <td align="center"><a href="https://fomrs-angular.vercel.app/">FORMS ANGULAR</a></td>
   </tr>
     <tr>
-    <td align="center"><a href="https://marvel-chrono-git-main-0410l.vercel.app/home">MARVEL MCU CHRONO ORDER</a></td>
+    <td align="center"><a href="https://marvel-chrono.vercel.app/home">MARVEL MCU CHRONO ORDER</a></td>
     <td align="center"><a href="https://crazybutton.vercel.app/">CRAZY BUTTON</a></td>
   </tr>
      <tr>
