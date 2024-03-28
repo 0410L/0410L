@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://fortunecookies-app.vercel.app/">FORTUNE COOKIES APP</a></td>
-    <td align="center"><a href="https://fcb-khaki.vercel.app/">FCB PLAYERS APP</a></td>
+    <td align="center"><a href="https://portfoliodev-oriol.vercel.app/">PORTFOLIO</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.youtube.com/watch?v=ISx1Tq9DVww">POLARD APP (VIDEO PROMO)</a></td>
@@ -163,11 +163,7 @@
   </tr>
     <tr>
     <td align="center"><a href="https://marvel-chrono.vercel.app/home">MARVEL MCU CHRONO ORDER</a></td>
-    <td align="center"><a href="https://crazybutton.vercel.app/">CRAZY BUTTON</a></td>
-  </tr>
-     <tr>
     <td align="center"><a href="https://tax-relief-proj.vercel.app/">TAX RELIEF</a></td>
-    <td align="center"><a href="https://portfoliodev-oriol.vercel.app/">PORTFOLIO</a></td>
   </tr>
 </table>
 
